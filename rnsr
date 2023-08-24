@@ -1,0 +1,3 @@
+#!/bin/bash
+# starts django server in current directory
+python manage.py runserver

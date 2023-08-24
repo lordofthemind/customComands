@@ -3,13 +3,21 @@
 # Update package information
 sudo apt update
 
+echo "Package information updated."
+
 # Upgrade installed packages
 sudo apt upgrade -y
+
+echo "Packages upgraded."
 
 # Clean up unnecessary packages
 sudo apt autoremove -y
 
+echo "Unnecessary packages removed."
+
 # Clean up cached package data
 sudo apt clean
+
+echo "Cached package data removed."
 
 echo "Update and upgrade complete."
