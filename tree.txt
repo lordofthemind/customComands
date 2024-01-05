@@ -1,0 +1,11 @@
+.
+├── lord
+├── pish
+├── reqt
+├── requirements.txt
+├── rgcc
+├── rnsr
+├── tree.txt
+└── updt
+
+1 directory, 8 files
