@@ -3,5 +3,3 @@
 # starts pipenv shell in current directory
 
 pipenv shell
-
-echo "pipenv shell started"
